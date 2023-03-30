@@ -2,6 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Edney+Paes;I'm+24+years+old;I+from+Itapevi,+SP;I+study+systems+development+at+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+Olá, meu nome é Edney, tenho 24 anos, sou natural de Brasília e moro em São Paulo as cerca de 15 anos.
+Sou uma pessoa tranquila e na minha, gosto de praticar atividades físicas, estudar, ler, me alimentar bem,
+cuida do meu sono e passar tempo com a família. Além disso, amo a natureza e corro em meio a natureza
+para refletir sobre minha vida. Possuo ensino médio completo, cursos técnicos no Senai e estou graduando
+em Análise e Desenvolvimento de Sistemas pela UNINTER. Também participei e gosto de participar de mentorias sobre
+desenvolvimento pessoal e profissional e cursos livres de programação.
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdneyPaess&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF&bg_color=0d1117" alt="Edney Paes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdneyPaess&layout=compact&hide_border=true&title_color=FF4500&text_color=FFFFFF&bg_color=0d1117" />
