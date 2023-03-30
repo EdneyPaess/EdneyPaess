@@ -4,7 +4,7 @@
 
 Olá, meu nome é Edney, tenho 24 anos, sou natural de Brasília e moro em São Paulo as cerca de 15 anos.
 Sou uma pessoa tranquila e na minha, gosto de praticar atividades físicas, estudar, ler, me alimentar bem,
-cuida do meu sono e passar tempo com a família. Além disso, amo a natureza e corro em meio a natureza
+cuidar do meu sono e passar tempo com a família. Além disso, amo a natureza e corro em meio a natureza
 para refletir sobre minha vida. Possuo ensino médio completo, cursos técnicos no Senai e estou graduando
 em Análise e Desenvolvimento de Sistemas pela UNINTER. Também participei e gosto de participar de mentorias sobre
 desenvolvimento pessoal e profissional e cursos livres de programação.
